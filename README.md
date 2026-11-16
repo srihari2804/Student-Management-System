@@ -1,5 +1,5 @@
  # Student-Management-System
-Student Management System is a web application which can be used for managing the data of a school related to students, teachers, and courses.
+Student Management System is a web application  which can be used for managing the data of a school related to students, teachers, and courses.
 
 The application has 3 user roles: student, teacher, and admin. Each role has access to different pages and operations which is described below:
 
